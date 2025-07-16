@@ -1,0 +1,12 @@
+# FourierDependency.yml
+name: FourierDependency
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - numpy
+  #- pandas
+  - scipy
+  - matplotlib
+  
