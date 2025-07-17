@@ -7,7 +7,7 @@ If you do not already have **conda** installed, you can **pip install** the depe
 
 **Setup Instructions:**
 
-Navigate using **command line** into folder containing repository, and then run the following
+Navigate using **command line** into folder containing repository, then run the following commands
 
 * conda env create -f FourierDependency.yml
 * conda activate FourierDependency
