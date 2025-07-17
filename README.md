@@ -1,5 +1,5 @@
 ## Basic demonstration of Fast Fourier Transform (FFT) algorithm
-Performs basic signal processing on audio, such as FFT algorithm and filter construction
+Performs basic signal processing on audio, such as FFT algorithm and filter construction.
 
 Follow the demo/instructions in the interactive python notebook (.ipynb) file located in the repository. The .wav file is the audio waveform that will be modified. The .yml file includes dependencies required to run the python script. 
 
