@@ -13,4 +13,4 @@ Navigate using **command line** into folder containing repository, and then run 
 * conda activate FourierDependency
 * jupyter lab
 
-For information on the mathematics used reference: https://en.wikipedia.org/wiki/Fourier_Transform
+Mathematical reference: https://en.wikipedia.org/wiki/Fourier_Transform
