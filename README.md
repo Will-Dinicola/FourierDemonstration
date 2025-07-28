@@ -1,5 +1,5 @@
 ## Basic demonstration of Fast Fourier Transform (FFT) algorithm
-Performs basic **signal processing** on audio, such as FFT algorithm and filter construction.
+Performs basic **signal processing** on audio, such as FFT algorithm and filter construction. The goal of this repository is to provide a real-world example of the usefulness of the mathematics behind the Fourier Transform and transfer function.
 
 Follow the demo/instructions in the **interactive python notebook (.ipynb)** file located in the repository.
 The **.wav** file is the audio waveform that will be modified. The **.yml** file includes dependencies required to run the python script. 
@@ -17,3 +17,5 @@ Navigate using **command line** into folder containing repository, then run the 
 * *jupyter lab*
 
 Mathematical reference: https://en.wikipedia.org/wiki/Fourier_Transform
+
+Author: Will Dinicola
