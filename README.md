@@ -16,6 +16,9 @@ Navigate using **command line** into folder containing repository, then run the 
 * *conda activate FourierDependency*
 * *jupyter lab*
 
+The audio excerpt can be found here: https://www.youtube.com/watch?v=0OjISWlmM9k
+
 Mathematical reference: https://en.wikipedia.org/wiki/Fourier_Transform
+
 
 Author: Will Dinicola
