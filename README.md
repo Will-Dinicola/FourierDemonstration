@@ -4,6 +4,14 @@ Performs basic **signal processing** on audio, such as FFT algorithm and filter 
 The repository include a slide presentation in **slides.pdf**. Review this for a conceptual introduction and visualization of the Fourier Series. Next, the demo/instructions in the **interactive python notebook (.ipynb)** file located in the repository.
 The **.wav** file is the audio waveform that will be modified. The **.yml** file includes dependencies required to run the python script. 
 
+# Sample Images
+
+## Time Domain
+<img src="images/magspec.png" alt="Time Domain">
+
+## Frequency Domain
+<img src="images/audio.png" alt="Frequency Domain">
+
 # Setup
 If you do not already have **conda** installed, you can **pip install** the dependencies but it is not recommended. 
 If you do have conda, create a conda environment with the given .yml file and activate it. Once it is activated, open up the .ipynb file.
